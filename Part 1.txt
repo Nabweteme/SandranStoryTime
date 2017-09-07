@@ -1,2 +1,19 @@
 SandranStoryTime part 1
 I miss my mom, brothers and sisters. I just want to go back home.
+
+
+Git Log
+C:\Users\sandr\Desktop\SandranStoryTime>git log
+commit 00c3d83e3b51385ebe3c2206a883f7d2b0039bad (HEAD -> master, origin/master)
+Author: Sandra Nabweteme <nabwetemes@student.swosu.edu>
+Date:   Wed Sep 6 20:27:56 2017 -0500
+
+    added first part of story
+
+commit 6198af036531f47f33e94c8326fe1d9f64d6ff9f
+Author: Sandra Nabweteme <nabwetemes@student.swosu.edu>
+Date:   Wed Sep 6 20:14:58 2017 -0500
+
+    first commit
+
+C:\Users\sandr\Desktop\SandranStoryTime>
